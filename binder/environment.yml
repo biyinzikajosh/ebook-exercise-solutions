@@ -1,0 +1,10 @@
+name: ebook-solutions
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - jupyterlab
+  - numpy
+  - pandas
+  - matplotlib
+  # … any other packages your solutions use
